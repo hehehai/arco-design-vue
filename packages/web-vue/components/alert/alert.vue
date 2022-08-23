@@ -127,7 +127,7 @@ export default defineComponent({
    */
   /**
    * @zh 操作项
-   * @en Actions
+   * @en Action
    * @slot action
    */
   /**
